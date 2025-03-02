@@ -1,0 +1,4 @@
+dotenv
+selenium
+pymupdf
+openai
