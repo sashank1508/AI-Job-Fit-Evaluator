@@ -63,8 +63,8 @@ This tool is designed to help recruiters, hiring managers, or candidates themsel
 ### **🔹 Clone the Repository**
 
 ```sh
-git clone https://github.com/sashank1508/ai-job-fit-evaluator
-cd ai-job-fit-evaluator
+git clone https://github.com/sashank1508/Ai-Job-Fit-Evaluator
+cd Ai-Job-Fit-Evaluator
 ```
 
 ### **🔹 Create a Virtual Environment**
